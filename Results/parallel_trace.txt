@@ -1,0 +1,184 @@
+******************************************************
+Results for Query 1
+******************************************************
+8  8
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 0 Looped # 0 with diff 1
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 1 to 3
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 2 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 0 Looped # 1 with diff 2
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 3 to 5
+My rank: 1 Looped # 0 with diff 2
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 1 to 3
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 0 0 0 0 
+0 2 1 2 1 0 0 0 0 
+0 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 0 Looped # 2 with diff 3
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 5 to 7
+My rank: 2 Looped # 0 with diff 3
+My rank: 2 factor 2 factorT 2
+My rank: 2 Looped with i 5 to 7
+My rank: 2 Looped with j 1 to 3
+My rank: 1 Looped # 1 with diff 3
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 3 to 5
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 0 
+0 2 1 2 1 1 0 0 0 
+0 1 1 1 4 0 0 0 0 
+0 0 0 0 3 0 0 0 0 
+0 0 2 0 0 0 0 0 0 
+0 2 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 1 Looped # 2 with diff 4
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 5 to 7
+My rank: 0 Looped # 3 with diff 4
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 7 to 9
+My rank: 3 Looped # 0 with diff 4
+My rank: 3 factor 2 factorT 2
+My rank: 3 Looped with i 7 to 9
+My rank: 3 Looped with j 1 to 3
+My rank: 2 Looped # 1 with diff 4
+My rank: 2 factor 2 factorT 2
+My rank: 2 Looped with i 5 to 7
+My rank: 2 Looped with j 3 to 5
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 2 
+0 2 1 2 1 1 0 2 1 
+0 1 1 1 4 3 2 0 0 
+0 0 0 0 3 3 2 0 0 
+0 0 2 1 2 0 0 0 0 
+0 2 1 4 3 0 0 0 0 
+0 1 1 0 0 0 0 0 0 
+0 2 1 0 0 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 1 Looped # 3 with diff 4
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 7 to 9
+My rank: 2 Looped # 2 with diff 4
+My rank: 2 factor 2 factorT 2
+My rank: 2 Looped with i 5 to 7
+My rank: 2 Looped with j 5 to 7
+My rank: 3 Looped # 1 with diff 4
+My rank: 3 factor 2 factorT 2
+My rank: 3 Looped with i 7 to 9
+My rank: 3 Looped with j 3 to 5
+My rank: 0 Looped # 4 with diff 4
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 9 to 11
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 2 
+0 2 1 2 1 1 0 2 1 
+0 1 1 1 4 3 2 1 4 
+0 0 0 0 3 3 2 1 3 
+0 0 2 1 2 5 4 0 0 
+0 2 1 4 3 4 4 0 0 
+0 1 1 3 3 0 0 0 0 
+0 2 1 3 2 0 0 0 0 
+------------------------------------------------------------------------
+My rank: 0 Looped # 5 with diff 4
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 11 to 13
+My rank: 1 Looped # 4 with diff 4
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 9 to 11
+My rank: 2 Looped # 3 with diff 4
+My rank: 2 factor 2 factorT 2
+My rank: 2 Looped with i 5 to 7
+My rank: 2 Looped with j 7 to 9
+My rank: 3 Looped # 2 with diff 4
+My rank: 3 factor 2 factorT 2
+My rank: 3 Looped with i 7 to 9
+My rank: 3 Looped with j 5 to 7
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 2 
+0 2 1 2 1 1 0 2 1 
+0 1 1 1 4 3 2 1 4 
+0 0 0 0 3 3 2 1 3 
+0 0 2 1 2 5 4 3 2 
+0 2 1 4 3 4 4 6 5 
+0 1 1 3 3 3 6 0 0 
+0 2 1 3 2 2 5 0 0 
+------------------------------------------------------------------------
+My rank: 0 Looped # 6 with diff 4
+My rank: 0 factor 2 factorT 2
+My rank: 0 Looped with i 1 to 3
+My rank: 0 Looped with j 13 to 15
+My rank: 1 Looped # 5 with diff 4
+My rank: 1 factor 2 factorT 2
+My rank: 1 Looped with i 3 to 5
+My rank: 1 Looped with j 11 to 13
+My rank: 3 Looped # 3 with diff 4
+My rank: 3 factor 2 factorT 2
+My rank: 3 Looped with i 7 to 9
+My rank: 3 Looped with j 7 to 9
+My rank: 2 Looped # 4 with diff 4
+My rank: 2 factor 2 factorT 2
+My rank: 2 Looped with i 5 to 7
+My rank: 2 Looped with j 9 to 11
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 2 
+0 2 1 2 1 1 0 2 1 
+0 1 1 1 4 3 2 1 4 
+0 0 0 0 3 3 2 1 3 
+0 0 2 1 2 5 4 3 2 
+0 2 1 4 3 4 4 6 5 
+0 1 1 3 3 3 6 5 5 
+0 2 1 3 2 2 5 8 7 
+******************************************************
+Highest Score  8
+Time taken: 0.00261711 sec.
+******************************************************
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 0 0 2 
+0 2 1 2 1 1 0 2 1 
+0 1 1 1 4 3 2 1 4 
+0 0 0 0 3 3 2 1 3 
+0 0 2 1 2 5 4 3 2 
+0 2 1 4 3 4 4 6 5 
+0 1 1 3 3 3 6 5 5 
+0 2 1 3 2 2 5 8 7 
